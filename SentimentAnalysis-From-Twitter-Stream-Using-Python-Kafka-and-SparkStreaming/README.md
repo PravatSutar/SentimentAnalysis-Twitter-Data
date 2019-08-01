@@ -44,6 +44,6 @@ Allow the program to keep on running for collecting tweets from the Twitter.
 `$ $SPARK_HOME/bin/spark-submit --packages org.apache.spark:spark-streaming-kafka_2.10:1.5.1 twitterStream.py`
 
 ####Documentation
-https://kafka.apache.org/
-https://spark.apache.org/streaming/
+https://kafka.apache.org/<br>
+https://spark.apache.org/streaming/<br>
 https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/
